@@ -1,5 +1,6 @@
 # OPenCv_Resized_video_imgs
 **Video and Image Resizer using OpenCV**
+
 This repository contains a simple script that demonstrates how to resize videos and images using the OpenCV library in Python. Resizing allows you to adjust the dimensions of videos and images while maintaining their aspect ratios.
 
 **Prerequisites**
